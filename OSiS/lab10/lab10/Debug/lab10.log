@@ -1,0 +1,4 @@
+﻿  lab10.cpp
+C:\Users\User\Desktop\OSiS\OSiS\lab10\lab10\lab10.cpp(96,15): warning C4101: wmEvent: неиспользованная локальная переменная
+C:\Users\User\Desktop\OSiS\OSiS\lab10\lab10\lab10.cpp(96,9): warning C4101: wmId: неиспользованная локальная переменная
+  lab10.vcxproj -> C:\Users\User\Desktop\OSiS\OSiS\lab10\Debug\lab10.exe

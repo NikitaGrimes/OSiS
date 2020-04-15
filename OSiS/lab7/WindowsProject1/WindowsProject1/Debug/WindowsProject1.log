@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\university\5_sem\SP\7\WindowsProject1\WindowsProject1\WindowsProject1.cpp(9,1): warning C4005: LANG_ENGLISH: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(1697): message : см. предыдущее определение "LANG_ENGLISH"
+  WindowsProject1.vcxproj -> C:\university\5_sem\SP\7\WindowsProject1\Debug\WindowsProject1.exe
